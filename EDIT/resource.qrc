@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/IMAGES"/>
+    <qresource prefix="/">
+        <file>images/ARC.BMP</file>
+        <file>images/brokenline.jpeg</file>
+        <file>images/BUTTON.BMP</file>
+        <file>images/circle.png</file>
+        <file>images/cut.png</file>
+        <file>images/DELETE.BMP</file>
+        <file>images/delete.png</file>
+        <file>images/ELLIPSE.BMP</file>
+        <file>images/fileprint.png</file>
+        <file>images/fill.png</file>
+        <file>images/FREEFORM.BMP</file>
+        <file>images/hmsetup.ico</file>
+        <file>images/Icon1242.ico</file>
+        <file>images/LINE.BMP</file>
+        <file>images/line.png</file>
+        <file>images/MCR.BMP</file>
+        <file>images/move.png</file>
+        <file>images/narrow.png</file>
+        <file>images/new.jpeg</file>
+        <file>images/open.jpeg</file>
+        <file>images/open.png</file>
+        <file>images/oval.png</file>
+        <file>images/pen.png</file>
+        <file>images/poly.png</file>
+        <file>images/rect.png</file>
+        <file>images/RECTANGL.BMP</file>
+        <file>images/reset.png</file>
+        <file>images/rotate.png</file>
+        <file>images/rotateleft.png</file>
+        <file>images/rotateright.png</file>
+        <file>images/save.jpeg</file>
+        <file>images/save.png</file>
+        <file>images/select.jpeg</file>
+        <file>images/UNGROUP.BMP</file>
+        <file>images/widen.png</file>
+        <file>images/zoomin.png</file>
+        <file>images/zoomout.png</file>
+    </qresource>
+</RCC>
